@@ -1,4 +1,4 @@
-import { Contact } from "./Components/contact";
+import { Contact } from "./Components/Contact";
 import { ToastContainer } from 'react-toastify';
 
 import 'react-toastify/dist/ReactToastify.css'
