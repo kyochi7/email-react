@@ -11,7 +11,7 @@ Projeto de validação de formulário.
 <br>
 
 <p align="center">
-  <img alt="github-favorites" src=".github/previewImage.png" width="75%">
+  <img alt="github-favorites" src=".github/previewImage.png" width="65%">
 </p>
 
 ## 🚀 Tecnologias
