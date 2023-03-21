@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Essa aplicação tem como propósito, fazer uma validação diretamente ao email, usando o EmailJs você consegue vincular seu email. Fazendo com que todas as mensagens vão direto a sua caixa de entrada.
 
-[🔗 Clique aqui para acessar](https://projetoflix-api.vercel.app/)
+[🔗 Clique aqui para acessar](email-react-jet.vercel.app)
 
 ---
 
